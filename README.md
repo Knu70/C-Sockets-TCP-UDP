@@ -1,4 +1,4 @@
-# C-Sockets-TCP-UDP
+# C Sockets TCP UDP
 
 El sensor puede ser de tres tipos, polución, temperatura o humedad. Esto se eligirá por pantalla además de pedir que se introduzca la ciudad y la medida. 
 
