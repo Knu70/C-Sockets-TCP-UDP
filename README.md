@@ -8,7 +8,7 @@ Cuando el servidor B recibe toda la información del sensor, la concatena en una
 
 Si cumple los parámetros, se creará un socket TCP, se establecerá conexión con el servidor A y se enviará, recibiendo un OK del servidor A si todo llega correctamente.
 
-![alt text](https://github.com/road2root/C-Sockets-TCP-UDP/blob/main/modelo.png)
-
-
+<div align="center">
+  <img src="https://github.com/road2root/C-Sockets-TCP-UDP/blob/main/modelo.png" width="500" />
+</div>
 
